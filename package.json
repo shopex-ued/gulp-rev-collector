@@ -1,5 +1,5 @@
 {
-  "name": "shopex-yunqi-gulp-rev-collector",
+  "name": "gulp-rev-collector",
   "version": "1.0.0",
   "description": "这是云起修改过的替换模块",
   "main": "index.js",
